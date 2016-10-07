@@ -152,7 +152,7 @@ debugger's break points to be triggered.) We'll still need to submit tests
 with `learn`, but this way we can get instant feedback.
 
 For example, when we open `index.html`, we'll see — well, nothing at first. Open
-up the console (`command` + `shift` + `j` in macOS), and type `mocha.run()`. You
+up the console (`command` + `option` + `i` in macOS), and type `mocha.run()`. You
 will use this command to run tests in any lab that supports them in this file.
 Now you should see something like:
 
@@ -217,3 +217,5 @@ rounded down the closest whole number.
 - [Mocha documentation](http://mochajs.org/)
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/javascript-intro-to-mocha' title='JavaScript Intro to Mocha'>JavaScript Intro to Mocha</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/javascript-intro-to-mocha'>Javascript Intro to Mocha</a> on Learn.co and start learning to code for free.</p>
