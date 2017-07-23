@@ -94,7 +94,7 @@ function favoriteIceCream(flavor) {
 }
 ```
 
-Then, if you open up `index.html` in your browser (if you're using the IDE, type in `httpserver`, navigate to the IP address it spits out in the terminal, and open the `index.html` page | follow [these steps] for more info(https://help.learn.co/hc/en-us/articles/230234088-Viewing-HTML-pages-in-the-Learn-IDE)) and call `favoriteIceCream('chocolate')` in the browser's terminal, you can inspect the `flavor` argument simply by hovering over it. Pretty cool, right?
+Then, if you open up `index.html` in your browser (if you're using the IDE, type in `httpserver`, navigate to the IP address it spits out in the terminal, and open the `index.html` page | follow [these steps] for more info(https://help.learn.co/hc/en-us/articles/230234088-Viewing-HTML-pages-in-the-Learn-IDE) and call `favoriteIceCream('chocolate')` in the browser's terminal, you can inspect the `flavor` argument simply by hovering over it. Pretty cool, right?
 
 ### Debugging with the browser
 
@@ -141,4 +141,4 @@ This lab is designed to get you comfortable with the syntax of Mocha as well as 
 
 - [Mocha documentation](http://mochajs.org/)
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/javascript-intro-to-mocha' title='JavaScript Intro to Mocha'>JavaScript Intro to Mocha</a> on Learn.co and start learning to code for free.</p>
+<p class='util--hide'>View <a href='https://learn.co/lessons/javascript-intro-to-mocha'>Introduction to Mocha</a> on Learn.co and start learning to code for free.</p>
